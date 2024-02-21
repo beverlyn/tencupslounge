@@ -1,0 +1,36 @@
+{    
+    "food": [
+        {
+            "name": "BANH MI PINCHOS",
+            "price": "1200",
+            "description": "TOASTED BAGUETTE W/ A HOMEMADE CHICKEN LIVER PATE & BUTTER SPREAD, SHREDDED CHICKEN, VIETNAMESE PICKLES, CILANTRO & A COATING OF PARMESAN CHEESE"
+        },
+        {
+            "name": "GREEN CURRY QUESADILLAS",
+            "price": "1300",
+            "description": "FIVE SPICE-MARINATED BEEF, GREEN CURRY SAUCE W/ FRESH AWAJI-SHIMA ONIONS, GOUDA & CHEDDAR CHEESE"
+        },
+        {
+            "name": "PANDAN CHICKEN BITES",
+            "price": "1200",
+            "description": "SOY-GARLIC MARINATED CHICKEN THIGH WRAPPED & FRIED IN A PANDAN LEAF"
+        },
+        {
+            "name": "CRISPY PORK BELLY",
+            "price": "1300",
+            "description": "MARINATED PORK BELLY, SERVED W/ A MISO-DATE HOISIN SAUCE & HERBS"
+        },
+        {
+            "name": "BUTTER-SAUTEED OKRA",
+            "price": "800",
+            "description": "OVER A FRENCH-STYLE EGGPLANT & SAMBAL PUREE, TOPPED W/ BRIK CRISPS & A CILANTRO-AIOLI"
+        }
+    ],
+    "dessert": [
+        {
+            "name": "SPICED BANANA BEIGNETS",
+            "price": "700",
+            "description": "OVER A SCOOP OF ROASTED PISTACHIO ICE CREAM W/ A COCONUT SAUCE DRIZZLE TOPPED W/ A FIVE SPICE-CANDIED PISTACHIO CRUMBLE"
+        }
+    ]
+}

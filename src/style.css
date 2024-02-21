@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Spinnaker';
+  src: url('assets/font/Spinnaker/Spinnaker-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Urbanist';
+  src: url('assets/font/Urbanist/Urbanist-VariableFont_wght.ttf') format('truetype');
+}
+
+:root {
+  font-family: "Urbanist", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+  color: rgb(63, 63, 63);
+  background-color: #FFF4E4;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  overscroll-behavior: none;
+  text-wrap: pretty;
+}
+
+#app {
+  position: relative;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3.2em;
+  font-weight: 900;
+  letter-spacing: 8px;
+  line-height: 1.1;
+  color: #E8BB7A;
+  margin: 32px;
+  margin-bottom: 48px;
+}
+
+h2 {
+  font-size: 2.2em;
+  line-height: 1.1;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 800;
+}
+
+.subtitle {
+  text-align: center;
+  padding-bottom: 48px;
+  
+}
+
+.content-container {
+  max-width: 800px;
+  margin: auto;
+  margin-top: 120px;
+  margin-bottom: 120px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.menu-container {
+  max-width: 360px;
+  margin: auto;
+}
+
+@media (max-width: 400px) {
+
+  h1 {
+    margin-bottom: 32px;
+  }
+
+  .subtitle {
+    padding-bottom: 32px;
+  }
+
+  .content-container {
+    /* max-width: 300px; */
+    margin: auto;
+    margin-top: 64px;
+    margin-bottom: 64px;
+  }
+}

@@ -1,0 +1,82 @@
+{
+    "signatureCocktails": [
+        {
+            "name": "JUNGLE COLA",
+            "price": "1200",
+            "description": "SAILOR JERRY RUM / TAMARIND / UMESHU / ELDERFLOWER / TONIC"
+        },
+        {
+            "name": "SATAY OF THE GODS",
+            "price": "1300",
+            "description": "PEANUT BUTTER-INFUSED RUM / FISH SAUCE / THAI CHILI OIL"
+        },
+        {
+            "name": "FELIX FELIXIS",
+            "price": "1500",
+            "description": "CALVADOS / RASPBERRY VINEGAR / DRY CURASSO / AMARETTO / GRAN CLASSICO / PINEAPPLE SLICE"
+        },
+        {
+            "name": "EGGSPRESSO MARTINI",
+            "price": "1300",
+            "description": "ESPRESSO / VODKA / CONDENSED MILK / EGG YOLK / CINNAMON / CLOVES/ STAR ANISE"
+        },
+        {
+            "name": "GAIA'S GIMLET",
+            "price": "1200",
+            "description": "HOMEMADE LIME CORDIAL/ LIME LEAF-INFUSED GIN/ SHERRY / BECHEROVKA LIQUEUR"
+        }
+    ],
+    "beer": [
+        {
+            "name": "SAPPORO BEER",
+            "price": "1000",
+            "description": "AKABOSHI - 750ML"
+        },
+        {
+            "name": "CRAFT BEERS",
+            "price": "*ASK",
+            "description": ""
+        }
+    ],
+    "wine": [
+        {
+            "name": "NATURAL WINE (GLASS)",
+            "price": "1200",
+            "description": "RED / ORANGE / WHITE"
+        },
+        {
+            "name": "BY THE BOTTLE",
+            "price": "*ASK",
+            "description": ""
+        }
+    ],
+    "mocktail": [
+        {
+            "name": "JASMINE BABY",
+            "price": "1200",
+            "description": "HOMEMADE JASMINE TEA KOMBUCHA / ELDERFLOWER / LEMONGRASS / LEMON"
+        }
+    ],
+    "softDrinks": [
+        {
+            "name": "CRAFT COLA",
+            "price": "800",
+            "description": ""
+        },
+        {
+            "name": "CRAFT GINGER ALE",
+            "price": "800",
+            "description": ""
+        },
+        {
+            "name": "SPARKLING MINERAL WATER",
+            "price": "1500",
+            "description": "OKU-AIZU KANEYAMA - 500ML"
+        },
+        {
+            "name": "JUICE",
+            "price": "750",
+            "description": "PINEAPPLE / GUAVA / MANGO / TOMATO / MIKAN"
+        }
+    ]
+}

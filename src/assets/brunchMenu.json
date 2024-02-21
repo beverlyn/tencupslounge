@@ -1,0 +1,54 @@
+{
+    "brunchFood": [
+        {
+            "name": "GRANOLA BOWL",
+            "price": "1100",
+            "description": "HOMEMADE GRANOLA W/ CASHEW NUTS, DRIED COCONUT, PUMPKIN SEEDS OVER VEGAN COCONUT YOGURT, BABY RED SHISO, HOMEMADE STRAWBERRY JAM, BEE POLLEN & STRAWBERRY DUST"
+        },
+        {
+            "name": "YUZU-AVO TOAST",
+            "price": "1500",
+            "description": "YUZU-AVOCADO SPREAD, POACHED EGG, SPROUTS, BABY RED SHISO, BEET-PICKLED LOTUS ROOT & RADISH SLICES"
+        },
+        {
+            "name": "BREAKFAST CROISSANT",
+            "price": "1400",
+            "description": "CROISSANT WI HOMEMADE KIMCHI, FRIED EGG, SPROUTS & RED CHEDDAR CHEESE"
+        },
+        {
+            "name": "HONEY BUTTER TOAST",
+            "price": "1400",
+            "description": "THICK-CUT HONEY-BUTTER SOAKED BRIOCHE, HOMEMADE PERSIMMON PUREE, VANILLA BEAN CREAM & HOJICHA POWDER"
+        }
+    ],
+    "setDrinks": [
+        {
+            "name": "Long Black (H / I)",
+            "description": ""
+        },
+        {
+            "name": "Cafe Latte (H/I)",
+            "description": ""
+        },
+        {
+            "name": "TEA (H)",
+            "description": "HEAL / ENERGY / RELAX"
+        },
+        {
+            "name": "JUICE",
+            "description": "PINEAPPLE / GUAVA / MANGO / TOMATO / MIKAN"
+        }
+    ],
+    "extras": [
+        {
+            "price": "200",
+            "name": "BACON",
+            "description": ""
+        },
+        {
+            "price": "150",
+            "name": "EGG",
+            "description": "(POACHED/FRIED)"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "Coffee": [
+        {
+            "name": "Long Black (H / I)",
+            "price": "650"
+        },
+        {
+            "name": "Chai Tea Latte (H / I)",
+            "price": "700"
+        },
+        {
+            "name": "Cafe Latte (H/I)",
+            "price": "750"
+        },
+        {
+            "name": "Dirty Chai Latte",
+            "price": "900"
+        }
+    ],
+
+    "Originals": [
+        {
+            "name": "EGGSPRESSO SHOT (H)",
+            "price": "880",
+            "description": "ESPRESSO / CONDENSED MILK / EGG YOLK / NUTMEG / CLOVES"
+        },
+        {
+            "name": "PANDAN LATTE (I)",
+            "price": "880",
+            "description": "HOMEMADE PANDAN SYRUP / COCONUT MILK"
+        },
+        {
+            "name": "HOJICHA-KURI BREW (H / I)",
+            "price": "850",
+            "description": "HOJICHA TEA / NUTMEG / BROWN SUGAR / CHESTNUT"
+        },
+        {
+            "name": "GOLDEN COCOA (H)",
+            "price": "800",
+            "description": "COCOA / TURMERIC / HONEY / COCONUT OIL"
+        },
+        {
+            "name": "JASMINE KOMBUCHA (I)",
+            "price": "950",
+            "description": "JASMINE TEA / SUGAR CANE / HOMEMADE SCOBY BABY"
+        },
+        {
+            "name": "CARDAMOM TONIC (I)",
+            "price": "800",
+            "description": "ESPRESSO / CARDAMOM / SAFFRON / BROWN SUGAR / GRAPEFRUIT JUICE"
+        }
+    ],
+
+    "Extras": [
+        {
+            "name": "ESPRESSO SHOT",
+            "price": "200"
+        },
+        {
+            "name": "ORGANIC OAT MILK",
+            "price": "100"
+        },
+        {
+            "name": "SOY MILK",
+            "price": "50"
+        }
+    ],
+
+    "Soft Drinks" : [
+        {
+            "name": "CRAFT COLA",
+            "price": "800",
+            "description": ""
+        },
+        {
+            "name": "CRAFT GINGER ALE",
+            "price": "800",
+            "description": ""
+        },
+        {
+            "name": "TEAS (H)",
+            "price": "800",
+            "description": "HEAL / ENERGY / RELAX"
+        },
+        {
+            "name": "SPARKLING MINERAL WATER",
+            "price": "1500",
+            "description": "OKU-AIZU KANEYAMA - 500ML"
+        },
+        {
+            "name": "JUICE",
+            "price": "750",
+            "description": "PINEAPPLE / GUAVA / MANGO / TOMATO / MIKAN"
+        }
+    ],
+    "Brunch Cocktails": [
+        {
+            "name": "EGGSPRESSO MARTINI",
+            "price": "1300",
+            "description": "ESPRESSO / EGGYOLK / VODKA / CONDENSED MILK / SPICES"
+        },
+        {
+            "name": "GOLDEN MONKEY KING",
+            "price": "1300",
+            "description": "HOT GOLDEN COCOA / MONKEY SHOULDER WHISKEY"
+        }
+    ]
+}
