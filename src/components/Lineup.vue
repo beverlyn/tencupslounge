@@ -9,10 +9,10 @@ const isPastEvent = (dateStr: string) => {
   const currentYear = today.getFullYear(); // Use the current year for comparison
   const months = { JAN: 0, FEB: 1, MAR: 2, APR: 3, MAY: 4, JUN: 5, JUL: 6, AUG: 7, SEP: 8, OCT: 9, NOV: 10, DEC: 11 };
   const [month, day] = dateStr.split(' ');
-  const eventDate = new Date(currentYear, months[month], day);
+  const eventDate = new Date(currentYear, months[month as keyof typeof months], parseInt(day, 10));
 
-  today.setHours(0, 0, 0, 0);
-  return eventDate < today;
+  today.setHours(0, 0, 0, 0); // Normalize today's date to midnight for accurate comparison
+  return eventDate < today; // Returns true if the event date is before today
 };
 </script>
 
