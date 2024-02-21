@@ -41,7 +41,7 @@ watchEffect(onCleanup => {
 
 <style scoped>
     .hero {
-        background-image: url("../assets/bar-image.jpeg");
+        background-image: url("../assets/bar-image.webp");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;

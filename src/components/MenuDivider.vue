@@ -1,13 +1,13 @@
 <script setup lang="ts">
   import { ref } from 'vue';
-import image1 from "../assets/menu-drink1.png";
-import image2 from "../assets/menu-drink3.png";
-import image3 from "../assets/menu-breakfast.png";
-import image4 from "../assets/menu-drink4.png";
-import image5 from "../assets/menu-food.png";
-import image6 from "../assets/menu-drinks.png";
-import image7 from "../assets/menu-wine.png";
-import image8 from "../assets/menu-drink2.png"; 
+import image1 from "../assets/menu-drink1.webp";
+import image2 from "../assets/menu-drink3.webp";
+import image3 from "../assets/menu-breakfast.webp";
+import image4 from "../assets/menu-drink4.webp";
+import image5 from "../assets/menu-food.webp";
+import image6 from "../assets/menu-drinks.webp";
+import image7 from "../assets/menu-wine.webp";
+import image8 from "../assets/menu-drink2.webp"; 
 
 const images = ref([
     { src: image1, alt: "image 1" },
