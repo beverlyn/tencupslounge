@@ -14,13 +14,13 @@ import Footer from "./components/Footer.vue";
 
 <template>
   <NavigationBar class="fixed top-0 z-[999]"/>
-  <Hero/>
-  <About/>
+  <Hero id="hero"/>
+  <About id="about"/>
   <MenuDivider/>
-  <MenuSection/>
+  <MenuSection id="menu"/>
   <LineupDivider/>
-  <LineUp/>
+  <LineUp id="lineup"/>
   <StoreInfoDivider/>
-  <StoreInfo/>
+  <StoreInfo id="info"/>
   <Footer/>
 </template>

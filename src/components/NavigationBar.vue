@@ -60,7 +60,7 @@ const screenWidth = ref(window.innerWidth);
 			<a href="#lineup" class="lineup">
 				EVENTS
 			</a>
-			<a href="info" class="access">
+			<a href="#info" class="access">
 				ACCESS
 			</a>
 		</nav>

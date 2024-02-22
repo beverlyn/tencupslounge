@@ -18,6 +18,8 @@
 
   color: rgb(63, 63, 63);
   background-color: #FFF4E4;
+  scroll-padding-top: 80px;
+  scroll-behavior: smooth;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
